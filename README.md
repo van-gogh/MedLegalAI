@@ -1,0 +1,2 @@
+# MedLegalAI
+项目使用P-Tuning v2微调ChatGLM得到医疗问诊大模型和法律咨询大模型，并使用langchain进行部署
